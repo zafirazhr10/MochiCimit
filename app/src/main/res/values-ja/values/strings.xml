@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mochi Cimit</string>
+    <string name="greeting_title">SELAMAT DATANG!</string>
+    <string name="button_resep">Lihat Resep Mochi</string>
+</resources>

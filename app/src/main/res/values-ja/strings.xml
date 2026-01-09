@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">もちちみっと (Mochi Cimit)</string>
+
+    <string name="welcome_title">ようこそ！ (Yōkoso!)</string>
+    <string name="welcome_subtitle">美味しくてわくわくする様々なお餅メニューをお楽しみください。</string>
+    <string name="button_resep">お餅のレシピ (Omochi no Reshipi)</string>
+
+    <string name="status_absen_success">出席状況: 成功！(Shusseki Jōkyō: Seikō!)</string>
+    <string name="status_absen_fail">出席状況: 失敗。(Shusseki Jōkyō: Shippai.)</string>
+
+    <string name="title_mochi_recipes">お餅のレシピ一覧 (Omochi no Reshipi Ichiran)</string>
+
+    <string name="recipe_mochi_ice_cream">もちアイスクリーム (Mochi Aisu Kurīmu)</string>
+    <string name="recipe_mochi_daifuku">大福もち (Daifuku Mochi)</string>
+    <string name="recipe_mochi_bites">一口もち (Hitokuchi Mochi)</string>
+    <string name="recipe_mochi_dango">みたらし団子 (Mitarashi Dango)</string>
+    <string name="recipe_creamy_mochi">クリーミーなお餅 (Kurīmī na Omochi)</string>
+
+    <string name="heading_ingredients">材料 (Zairyō)</string>
+    <string name="button_steps">作り方 (Tsukurikata)</string>
+    <string name="desc_mochi_ice_cream_image">もちアイスクリームの画像 </string>
+    <string name="ingredients_mochi_ice_cream">• 白玉粉 7大さじ (炒らないもの)\n• 白玉粉 2大さじ (炒ったもの)\n• グラニュー糖 3大さじ\n• 水 8大さじ\n• 食紅 2滴 (お好みの色)\n• 中サイズのアイスクリーム 1箱 (お好みの味)</string>
+
+
+    <string name="title_steps_mochi_ice_cream">もちアイスクリームの作り方 </string>
+    <string name="button_enjoy">召し上がれ！ (Meshiagare!)</string>
+    <string name="steps_mochi_ice_cream">1. 耐熱容器を用意し、白玉粉（炒らないもの）、グラニュー糖、食紅を入れます。\n\n2. 色のついた液状の生地になるまでかき混ぜます。\n\n3. 蒸し器を用意し、約25分間蒸します。取り出して少し冷まし、スプーンで混ぜます。\n\n4. 平らなトレイを用意し、蒸したもち生地を取り、台に炒った白玉粉をまぶし、生地をゆっくりと揉みます。\n\n5. 少量の生地を取り、平らにし、お好みの量のアイスクリームを詰めて、閉じたもちアイスクリームのボール状にします。\n\n6. すべての材料がなくなるまで繰り返します。もちアイスクリームを冷蔵庫で約2.5時間冷やします。\n\n7. もちアイスクリームは家族と一緒に楽しむ準備ができました。</string>
+
+    <string name="desc_mochi_daifuku_image">大福もちの画像 </string>
+    <string name="ingredients_mochi_daifuku">• 白玉粉 (もちこ): 200グラム\n• グラニュー糖: 50グラム\n• 水: 200 ml\n• コーンスターチまたは片栗粉: まぶす用\n• 餡 (あん) (一つ以上選択):\n  小豆あん (Anko): 200グラム</string>
+
+    <string name="title_steps_mochi_daifuku">大福もちの作り方 </string>
+    <string name="steps_mochi_daifuku">1. 耐熱ボウルに白玉粉、グラニュー糖、水を入れ混ぜ合わせます。\n\n2. すべての材料が均一に混ざり、ダマがなくなるまでかき混ぜます。\n\n3. 生地が入ったボウルを蒸し器または炊飯器に入れます。\n\n4. 生地の透明感が出て弾力が出るまで、約20分間蒸します。\n蒸している間、均一に火が通るように5分ごとに生地をかき混ぜます。\n\n5. 蒸し上がったら、片栗粉をまぶした表面に生地を移します。\nめん棒を使い、生地を約1cmの厚さに伸ばします。\n触れる程度に温かくなるまで数分間冷まします。\n\n6. 大福の餡詰めと形作り:\n\n• もち生地を小さな円形に切ります。\n• 各もちの中心に餡を置きます。\n• 餡が完全に覆われるまで、もちの端を中央に引き寄せます。\n• 球状に成形します。\n\n7. 完成した大福もちに少量の片栗粉をまぶし、くっつきを防ぎます。\n\nすぐに提供しない場合は、各もちをラップで包みます。</string>
+
+    <string name="desc_mochi_bites_image">一口もちの画像 </string>
+    <string name="ingredients_mochi_bites">• 白玉粉 150グラム\n• グラニュー糖 大さじ2\n• 牛乳\n• サラダ油 適量\n• 沸騰した水 200 ml\n• 塩 小さじ1/4\n• ココアパウダー</string>
+
+    <string name="title_steps_mochi_bites">一口もちの作り方 </string>
+    <string name="steps_mochi_bites">1. 白玉粉、砂糖、塩を混ぜてよくかき混ぜます。牛乳を少しずつ注ぎながら、ダマにならないように混ぜます。\n\n2. サラダ油を生地に注ぎ、よく混ぜます。生地を濾して耐熱ボウルに移します。\n\n3. 生地に火が通り透明になるまで20分間蒸します。蒸し上がったら、もち生地に白玉粉をまぶし、くっつかないようにします。お好みのサイズに切ります。\n\n4. もち生地を丸く成形し、ココアパウダーをまぶします。お皿にもちを並べます。\n\n5. チーズソースの材料を加熱します。よくかき混ぜ、沸騰してとろみがつくまでチーズソースを煮ます。サービングボウルに移します。\n\n6. もちをチーズソースとオレオのクランブルと一緒に提供します。</string>
+
+    <string name="desc_mochi_dango_image">みたらし団子の画像 </string>
+    <string name="ingredients_mochi_dango">• 白玉粉 150グラム\n• グラニュー糖 25グラム\n• 熱湯 100 ml\n• 食紅\n• ホイップクリーム\n• ココアパウダー</string>
+
+    <string name="title_steps_mochi_dango">みたらし団子の作り方 </string>
+    <string name="steps_mochi_dango">1. 白玉粉をボウルに入れます。\n\n2. グラニュー糖と熱湯を加え、なめらかになるまで混ぜます。\n\n3. お好みの食紅を加え、再度よく混ぜます。\n\n4. 小さな丸い形に成形し、浮き上がってくるまで茹でます。\n\n5. 茹で上がったら、取り出して水気を切ります。\n\n6. もち団子の上にホイップクリームをのせ、ココアパウダーを振りかけて提供します。</string>
+
+    <string name="desc_creamy_mochi_image">クリーミーなお餅の画像 </string>
+    <string name="ingredients_creamy_mochi">• 新鮮なイチゴ 6個\n• 小豆あん 150グラム\n• 白玉粉 (しらたまこ) 3/4カップ\n• 砂糖 大さじ1 1/2\n• 水 2/3カップ\n• 片栗粉 (まぶす用)</string>
+
+    <string name="title_steps_creamy_mochi">クリーミーなお餅の作り方 </string>
+    <string name="steps_creamy_mochi">1. いちごを洗い、水気を拭き取り、ヘタを取ります。小豆あんを6つの同じ大きさのボールに分けます。果実の先端は開けたまま、いちごをあんで包みます。\n\n2. 電子レンジ対応のガラスボウルに白玉粉 (しらたまこ - shiratamako) と砂糖を泡だて器で混ぜます。ゴムベラを使い、水を3回に分けて加え、とろみがつくまで混ぜます。ラップをゆるくかけます。\n\n3. 電子レンジで1分加熱します。濡らしたゴムベラで生地を混ぜます。その後、さらに1分間加熱します。濡らしたゴムベラで均一に混ぜます。最後に30秒だけ加熱します。混合物が透明になっているか確認します。\n\n4. トレーに片栗粉をふるい、その上に生地を置きます。シリコンヘラまたはキッチンスクレーパーを使用して、べたつきすぎないように一度半分に折り、6つの等しい部分に分けます。\n\n5. 手に片栗粉を少し振りかけます。それぞれの部分を平らにしてボール状に成形します。あんこをまぶしたいちごを先端を下にして上に置きます。すべての側面から果実を覆い始め、親指を使ってお餅をいちごの上に固定します。\n\n6. 生地のすべての側面が上部で合わさったら、ひねって閉じます。きれいな丸い形に整えます。このプロセスを繰り返します。室温で提供します。</string>
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#FF7B7B"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_arrow_back"
+            android:contentDescription="Kembali"
+            android:clickable="true"
+            android:focusable="true"
+            android:padding="12dp"
+            android:background="?attr/selectableItemBackgroundBorderless" />
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:text="@string/title_steps_creamy_mochi"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="12dp">
+
+        <TextView
+            android:id="@+id/txtLangkah"
+            android:textColor="#000000"
+            android:textSize="13sp"
+            android:lineSpacingExtra="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/steps_creamy_mochi" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/buttonLangkah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_white_box"
+        android:elevation="4dp"
+        android:padding="12dp"
+        android:text="@string/button_enjoy"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

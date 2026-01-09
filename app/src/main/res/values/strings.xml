@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mochi Cimit</string>
+
+    <string name="welcome_title">SELAMAT DATANG!</string>
+    <string name="welcome_subtitle">Nikmati beragam mochi lezat\ndan menu menarik di sini.</string>
+    <string name="button_resep">Resep Mochi</string>
+
+    <string name="status_absen_success">Status Absensi: BERHASIL! Anda berada di dalam area kampus.</string>
+    <string name="status_absen_fail">Status Absensi: GAGAL. Anda berada di luar area kampus.</string>
+
+    <string name="title_mochi_recipes">Daftar Resep Mochi</string>
+
+    <string name="recipe_mochi_ice_cream">Mochi Es Krim</string>
+    <string name="recipe_mochi_daifuku">Mochi Daifuku</string>
+    <string name="recipe_mochi_bites">Mochi Bites</string>
+    <string name="recipe_mochi_dango">Mochi Dango</string>
+    <string name="recipe_creamy_mochi">Creamy Mochi </string>
+    <string name="heading_ingredients">Bahan - bahan</string>
+    <string name="button_steps">Langkah - langkah</string>
+    <string name="desc_mochi_ice_cream_image">Gambar Mochi Es Krim</string>
+
+    <string name="ingredients_mochi_ice_cream">• 7 sdm tepung ketan (tanpa sangrai)\n• 2 sdm tepung ketan (sangrai)\n• 3 sdm gula pasir\n• 8 sdm air\n• 2 tetes pewarna makanan (warna sesuai selera)\n• 1 box es krim ukuran sedang (rasa sesuai selera)</string>
+
+    <string name="title_steps_mochi_ice_cream">Langkah - langkah Mochi Es Krim</string>
+    <string name="button_enjoy">Selamat Menikmati!</string>
+    <string name="steps_mochi_ice_cream">1. Siapkan wadah tahan panas, masukkan tepung ketan (tanpa sangrai), gula pasir, dan juga pewarna makanan.\n\n2. Aduk-aduk sampai membentuk adonan cair yang berwarna.\n\n3. Siapkan panci pengukus, kukus selama kurang lebih 25 menit. Angkat dan dinginkan sebentar, aduk-aduk dengan sendok.\n\n4. Lalu siapkan nampan rata, ambil adonan kuli kukusan, beri taburan tepung terigu (sangrai) di alasnya, remas adonan perlahan selama beberapa saat.\n\n5. Ambil sedikit adonan, ratakan, lalu isi dengan es krim sesuai selera, bulatkan adonan menjadi es krim mochi tertutup.\n\n6. Lakukan sampai seluruh bahan habis. Diamkan es krim mochi dalam kulkas kurang lebih 2,5 jam.\n\n7. Es krim mochi siap dinikmati bersama keluarga.</string>
+
+    <string name="desc_mochi_daifuku_image">Gambar Mochi Daifuku</string>
+    <string name="ingredients_mochi_daifuku">• Tepung beras ketan (mochiko): 200 gram\n• Gula pasir: 50 gram\n• Air: 200 ml\n• Tepung maizena atau tepung kentang: secukupnya untuk taburan\n• Isian (pilih salah satu atau lebih):\n  Pasta kacang merah (anko): 200 gram</string>
+
+    <string name="title_steps_mochi_daifuku">Langkah - langkah </string>
+    <string name="steps_mochi_daifuku">1. Campurkan tepung beras ketan, gula pasir, dan air dalam mangkuk tahan panas.\n\n2. Aduk hingga semua bahan tercampur rata dan tidak ada gumpalan.\n\n3. Masukkan mangkuk berisi adonan ke dalam panci kukus atau rice cooker.\n\n4. Kukus adonan selama sekitar 20 menit, atau hingga adonan berubah menjadi transparan dan kenyal.\nSelama proses pengukusan, aduk adonan setiap 5 menit untuk memastikan kematangan yang merata.\n\n5. Setelah matang, pindahkan adonan ke permukaan yang telah ditaburi tepung maizena.\nGunakan rolling pin untuk memipihkan adonan hingga ketebalan sekitar 1 cm.\nBiarkan adonan mendingin selama beberapa menit hingga cukup hangat untuk dipegang.\n\n6. Mengisi dan Membentuk Daifuku:\n\n• Potong adonan mochi menjadi lingkaran-lingkaran kecil.\n• Letakkan isian di tengah setiap potongan mochi.\n• Tarik tepi mochi ke tengah hingga menutup isian sepenuhnya.\n• Bentuk menjadi bola.\n\n7. Taburi mochi daifuku yang sudah jadi dengan sedikit tepung maizena untuk mencegah kelengketan.\n\nBungkus masing-masing mochi dengan plastic wrap jika tidak langsung disajikan.</string>
+    <string name="desc_mochi_bites_image">Gambar Mochi Bites</string>
+    <string name="ingredients_mochi_bites">• 150 gram tepung ketan\n• 2 sendok makan gula pasir \n• Susu cair \n• Minyak goreng secukupnya \n• 200 ml air matang\n• 1/4 sendok teh garam\n• Bubuk kakao</string>
+
+    <string name="title_steps_mochi_bites">Langkah - langkah Mochi Bites</string>
+    <string name="steps_mochi_bites">1. Tepung ketan, gula, dan garam dicampur, lalu diaduk rata. Tuangkan susu cair sedikit demi sedikit sambil diaduk agar tidak ada gerindil.\n\n2. Tuang minyak goreng ke dalam adonan, lalu aduk rata. Pindahkan adonan dengan cara disaring ke mangkuk tahan panas.\n\n3. Kukus adonan selama 20 menit hingga matang dan transparan. Setelah matang, balurkan adonan dengan tepung ketan agar tidak lengket. Potong-potong sesuai selera.\n\n4. Bentuk bulat adonan mochi, lanjut dibalur dengan bubuk kakao. Tata mochi di piring. Sisihkan.\n\n5. Masak bahan-bahan saus keju. Aduk rata dan masak saus keju hingga mendidih dan saus mengental. Pindahkan ke mangkuk saji.\n\n6. Sajikan mochi bersama dengan saus keju dan remahan Oreo.</string>
+
+    <string name="desc_mochi_dango_image">Gambar Mochi Dango</string>
+    <string name="ingredients_mochi_dango">• 150 gr tepung ketan\n• 25 gr gula pasir\n• 100 ml air mendidih\n• Pewarna makanan\n• Whipped cream\n• Bubuk coklat</string>
+
+    <string name="title_steps_mochi_dango">Langkah - langkah Mochi Dango</string>
+    <string name="steps_mochi_dango">1. Masukkan tepung ketan ke dalam mangkuk.\n\n2. Tambahkan gula pasir dan air mendidih, aduk hingga kalis.\n\n3. Tambahkan pewarna makanan sesuai selera, aduk rata lagi.\n\n4. Bentuk bulat-bulat kecil dan rebus hingga matang mengapung.\n\n5. Jika sudah matang, angkat, tiriskan.\n\n6. Sajikan mochi dango dengan menambahkan whipped cream di atasnya dan beri taburan bubuk cokelat.</string>
+
+    <string name="desc_creamy_mochi_image">Gambar Creamy Mochi</string>
+    <string name="ingredients_creamy_mochi">• 6 buah stroberi segar\n• 150 gram pasta kacang merah\n• 3/4 cangkir tepung beras ketan (shiratamako)\n• 1 1/2 sdm gula\n• 2/3 gelas air\n• Tepung kentang (untuk taburan)</string>
+
+    <string name="title_steps_creamy_mochi">Langkah - langkah Creamy Mochi</string>
+    <string name="steps_creamy_mochi">1. Bilas, keringkan, dan buang tangkai stroberi. Bagi pasta kacang merah menjadi enam bola berukuran sama. Bungkus stroberi dengan pasta. Biarkan ujung buah tidak tertutup.\n\n2. Dalam mangkuk kaca tahan microwave, campur tepung beras ketan (shiratamako) dan gula dengan pengocok. Dengan menggunakan spatula, tambahkan air dalam tiga bagian dan aduk hingga campuran mengental. Tutupi dengan plastik longgar.\n\n3. Microwave selama satu menit. Aduk tepung dengan spatula basah. Kemudian, microwave selama satu menit lagi. Aduk hingga merata dengan spatula basah. Terakhir, microwave selama 30 detik saja. Periksa apakah campuran sekarang berwarna bening.\n\n4. Ayak tepung kentang di atas nampan dan taruh campuran di atasnya. Dengan spatula silikon atau pengikis dapur, lipat menjadi dua sekali agar tidak terlalu lengket lalu bagi menjadi enam bagian yang sama.\n\n5. Taburkan sedikit tepung kentang di tangan. Pipihkan dan bentuk setiap bagian menjadi bola. Letakkan stroberi yang telah dilumuri pasta kacang merah di atasnya, dengan ujung menghadap ke bawah. Mulailah menutupi buah dari semua sisi dan gunakan ibu jari untuk menahan mochi stroberi di atasnya.\n\n6. Setelah semua sisi adonan bertemu di bagian atas, putar dan tutup. Bentuk menjadi bentuk bulat yang bagus. Ulangi proses tersebut. Sajikan pada suhu ruangan.</string>
+
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">모치치밋 (Mochi Cimit)</string>
+
+    <string name="welcome_title">환영합니다! (Hwanyeonghamnida)</string>
+    <string name="welcome_subtitle">다양하고 맛있는 모치 메뉴를 즐겨보세요.</string>
+    <string name="button_resep">모치 레시피 (Mochi Resipi)</string>
+
+    <string name="status_absen_success">출석 상태: 성공! (Chulseok Satae: Seonggong!)</string>
+    <string name="status_absen_fail">출석 상태: 실패. (Chulseok Satae: Silpae.)</string>
+
+    <string name="title_mochi_recipes">모치 레시피 목록 (Mochi Resipi Mongnok)</string>
+
+    <string name="recipe_mochi_ice_cream">모치 아이스크림 (Mochi Aiseukeurim)</string>
+    <string name="recipe_mochi_daifuku">다이후쿠 모치 (Daifuku Mochi)</string>
+    <string name="recipe_mochi_bites">모치 바이트 (Mochi Baiteu)</string>
+    <string name="recipe_mochi_dango">모치 단고 (Mochi Dango)</string>
+    <string name="recipe_creamy_mochi">크리미 모치 (Keurimi Mochi)</string>
+
+    <string name="heading_ingredients">재료 (Jaeryo)</string>
+    <string name="button_steps">단계 (Dangye)</string>
+    <string name="desc_mochi_ice_cream_image">모치 아이스크림 이미지 (Mochi Aiseukeurim Imīji)</string>
+    <string name="ingredients_mochi_ice_cream">• 찹쌀가루 7큰술 (볶지 않은 것)\n• 찹쌀가루 2큰술 (볶은 것)\n• 설탕 3큰술\n• 물 8큰술\n• 식용 색소 2방울 (선택한 색상)\n• 아이스크림 중간 상자 1개 (선택한 맛)</string>
+
+
+    <string name="title_steps_mochi_ice_cream">모치 아이스크림 단계 </string>
+    <string name="button_enjoy">맛있게 드세요! (Masitge Deuseyo!)</string>
+    <string name="steps_mochi_ice_cream">1. 내열 용기를 준비하고, 찹쌀가루(볶지 않은 것), 설탕, 식용 색소를 넣습니다.\n\n2. 색깔 있는 묽은 반죽이 될 때까지 섞습니다.\n\n3. 찜기를 준비하고 약 25분간 찝니다. 꺼내서 잠시 식힌 후, 숟가락으로 섞습니다.\n\n4. 평평한 쟁반을 준비하고, 찐 모치 반죽을 꺼내 볶은 찹쌀가루를 밑바닥에 뿌린 후, 반죽을 부드럽게 주무릅니다.\n\n5. 반죽을 조금 떼어내어 평평하게 만들고, 원하는 아이스크림을 채운 후, 모치 아이스크림 공 모양으로 만듭니다.\n\n6. 재료가 다 소진될 때까지 반복합니다. 모치 아이스크림을 냉장고에서 약 2.5시간 동안 식힙니다.\n\n7. 모치 아이스크림은 가족과 함께 즐길 준비가 되었습니다.</string>
+
+    <string name="desc_mochi_daifuku_image">다이후쿠 모치 이미지 </string>
+    <string name="ingredients_mochi_daifuku">• 찹쌀가루 (모치코): 200그램\n• 설탕: 50그램\n• 물: 200ml\n• 옥수수 전분 또는 감자 전분: 뿌리는 용\n• 속 재료 (하나 이상 선택):\n  팥앙금 (Anko): 200그램</string>
+
+    <string name="title_steps_mochi_daifuku">다이후쿠 모치 단계 </string>
+    <string name="steps_mochi_daifuku">1. 내열 용기에 찹쌀가루, 설탕, 물을 넣고 섞습니다.\n\n2. 모든 재료가 고르게 섞여 덩어리가 없을 때까지 젓습니다.\n\n3. 반죽이 담긴 그릇을 찜기나 밥솥에 넣습니다.\n\n4. 반죽이 투명하고 쫄깃해질 때까지 약 20분간 찝니다.\n찌는 과정에서 5분마다 반죽을 저어 고르게 익도록 합니다.\n\n5. 익힌 후, 반죽을 옥수수 전분이 뿌려진 표면으로 옮깁니다.\n밀대로 반죽을 약 1cm 두께로 폅니다.\n만질 수 있을 정도로 따뜻해질 때까지 몇 분 동안 식힙니다.\n\n6. 다이후쿠 채우기 및 모양 만들기:\n\n• 모치 반죽을 작은 원으로 자릅니다.\n• 각 모치 조각 중앙에 속 재료를 놓습니다.\n• 속 재료가 완전히 덮이도록 모치 가장자리를 중앙으로 당깁니다.\n• 공 모양으로 만듭니다.\n\n7. 완성된 다이후쿠 모치에 약간의 옥수수 전분을 뿌려 끈적임을 방지합니다.\n\n바로 제공하지 않을 경우, 각각의 모치를 랩으로 포장합니다.</string>
+    <string name="desc_mochi_bites_image">모치 바이트 이미지 (Mochi Baiteu Imīji)</string>
+    <string name="ingredients_mochi_bites">• 찹쌀가루 150그램\n• 설탕 2큰술\n• 액상 우유\n• 식용유 약간\n• 끓인 물 200ml\n• 소금 1/4 작은술\n• 코코아 가루</string>
+
+    <string name="title_steps_mochi_bites">모치 바이트 단계 </string>
+    <string name="steps_mochi_bites">1. 찹쌀가루, 설탕, 소금을 섞은 후 잘 저어줍니다. 덩어리가 생기지 않도록 액상 우유를 조금씩 부으면서 저어줍니다.\n\n2. 식용유를 반죽에 붓고 잘 섞습니다. 반죽을 체에 걸러 내열 용기에 옮깁니다.\n\n3. 반죽이 익어 투명해질 때까지 20분간 찝니다. 익으면 찹쌀가루를 묻혀 달라붙지 않게 합니다. 원하는 크기로 자릅니다.\n\n4. 모치 반죽을 동그랗게 만들고 코코아 가루를 묻힙니다. 모치를 접시에 담아둡니다.\n\n5. 치즈 소스 재료를 조리합니다. 잘 저어 끓어 오르고 소스가 걸쭉해질 때까지 끓입니다. 서빙 그릇에 옮깁니다.\n\n6. 모치를 치즈 소스와 오레오 부스러기와 함께 제공합니다.</string>
+
+    <string name="desc_mochi_dango_image">모치 단고 이미지 </string>
+    <string name="ingredients_mochi_dango">• 찹쌀가루 150그램\n• 설탕 25그램\n• 끓는 물 100ml\n• 식용 색소\n• 휘핑크림\n• 코코아 가루</string>
+
+    <string name="title_steps_mochi_dango">모치 단고 단계 </string>
+    <string name="steps_mochi_dango">1. 찹쌀가루를 그릇에 넣습니다.\n\n2. 설탕과 끓는 물을 넣고 부드러워질 때까지 섞습니다.\n\n3. 원하는 식용 색소를 넣고 다시 잘 섞습니다.\n\n4. 작게 동그란 모양으로 만들고, 익어서 떠오를 때까지 삶습니다.\n\n5. 익으면 건져서 물기를 뺍니다.\n\n6. 완성된 모치 단고 위에 휘핑크림을 얹고 코코아 가루를 뿌려 제공합니다.</string>
+
+    <string name="desc_creamy_mochi_image">크리미 모치 이미지 </string>
+    <string name="ingredients_creamy_mochi">• 신선한 딸기 6개\n• 팥앙금 150그램\n• 찹쌀가루 (시라타마코) 3/4컵\n• 설탕 1 1/2큰술\n• 물 2/3컵\n• 감자 전분 (뿌리는 용)</string>
+
+    <string name="title_steps_creamy_mochi">크리미 모치 단계)</string>
+    <string name="steps_creamy_mochi">1. 딸기의 줄기를 헹구고 말려서 제거합니다. 팥앙금을 6개의 동일한 크기의 공 모양으로 나눕니다. 과일 끝 부분이 덮이지 않도록 딸기를 앙금으로 감쌉니다.\n\n2. 전자레인지 사용 가능한 유리 그릇에 찹쌀가루 (시라타마코 - shiratamako)와 설탕을 거품기로 섞습니다. 주걱을 사용하여 물을 3번에 나누어 넣고 혼합물이 걸쭉해질 때까지 젓습니다. 랩으로 느슨하게 덮습니다.\n\n3. 전자레인지에 1분간 돌립니다. 젖은 주걱으로 반죽을 젓습니다. 그런 다음, 전자레인지에 다시 1분간 돌립니다. 젖은 주걱으로 고르게 젓습니다. 마지막으로 30초만 전자레인지에 돌립니다. 혼합물이 이제 투명한지 확인합니다.\n\n4. 감자 전분을 트레이에 체로 치고 그 위에 혼합물을 올려 놓습니다. 실리콘 주걱이나 스크래퍼를 사용하여 너무 끈적하지 않도록 한 번 반으로 접은 다음, 6개의 동일한 부분으로 나눕니다.\n\n5. 손에 감자 전분을 약간 뿌립니다. 각 부분을 펴서 공 모양으로 만듭니다. 팥앙금으로 덮인 딸기를 끝이 아래를 향하도록 위에 놓습니다. 모든 면에서 과일을 덮기 시작하고 엄지손가락을 사용하여 모치를 딸기 위에 고정합니다.\n\n6. 반죽의 모든 면이 상단에서 만나면 비틀어 닫습니다. 예쁜 둥근 모양으로 만듭니다. 이 과정을 반복합니다. 실온에서 제공합니다.</string>
+
+</resources>

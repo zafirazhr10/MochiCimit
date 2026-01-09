@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FFFFFF" />  <!-- Warna latar putih -->
+    <corners android:radius="50dp" />  <!-- Sudut membulat -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />      <!-- Garis pinggir (bisa ubah warnanya kalau mau) -->
+</shape>

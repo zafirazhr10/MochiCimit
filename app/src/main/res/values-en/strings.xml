@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mochi Cimit</string>
+
+    <string name="welcome_title">WELCOME!</string>
+    <string name="welcome_subtitle">Enjoy various delicious mochi\nand exciting menus here.</string>
+    <string name="button_resep">Mochi Recipes</string>
+
+    <string name="status_absen_success">Attendance Status: SUCCESS! You are within the campus area.</string>
+    <string name="status_absen_fail">Attendance Status: FAILED. You are outside the campus area.</string>
+
+    <string name="title_mochi_recipes">Mochi Recipes</string>
+    <string name="recipe_mochi_ice_cream">Mochi Ice Cream</string>
+    <string name="recipe_mochi_daifuku">Mochi Daifuku</string>
+    <string name="recipe_mochi_bites">Mochi Bites</string>
+    <string name="recipe_mochi_dango">Mochi Dango</string>
+    <string name="recipe_creamy_mochi">Creamy Mochi</string>
+
+    <string name="heading_ingredients">Ingredients</string>
+    <string name="button_steps">Steps</string>
+    <string name="desc_mochi_ice_cream_image">Image of Mochi Ice Cream</string>
+    <string name="ingredients_mochi_ice_cream">• 7 tbsp glutinous rice flour (unsalted)\n• 2 tbsp glutinous rice flour (roasted)\n• 3 tbsp granulated sugar\n• 8 tbsp water\n• 2 drops food coloring (color of choice)\n• 1 medium box of ice cream (flavor of choice)</string>
+
+    <string name="title_steps_mochi_ice_cream">Steps - Mochi Ice Cream</string>
+    <string name="button_enjoy">Enjoy Your Meal!</string>
+    <string name="steps_mochi_ice_cream">1. Prepare a heatproof container, add glutinous rice flour (unsalted), granulated sugar, and food coloring.\n\n2. Stir until it forms a colored liquid dough.\n\n3. Prepare a steamer, steam for approximately 25 minutes. Lift and cool briefly, then mix with a spoon.\n\n4. Prepare a flat tray, take the steamed mochi dough, sprinkle roasted glutinous rice flour on the base, and knead the dough gently for a while.\n\n5. Take a small amount of dough, flatten it, fill it with ice cream of your choice, and shape the dough into a closed mochi ice cream ball.\n\n6. Repeat until all ingredients are used up. Chill the mochi ice cream in the refrigerator for about 2.5 hours.\n\n7. Mochi ice cream is ready to be enjoyed with family.</string>
+
+    <string name="desc_mochi_daifuku_image">Image of Mochi Daifuku</string>
+    <string name="ingredients_mochi_daifuku">• Glutinous rice flour (Mochiko): 200 grams\n• Granulated sugar: 50 grams\n• Water: 200 ml\n• Cornstarch or potato starch: enough for dusting\n• Filling (choose one or more):\n  Pasta kacang merah (Anko): 200 grams</string>
+
+    <string name="title_steps_mochi_daifuku">Steps - Mochi Daifuku</string>
+    <string name="steps_mochi_daifuku">1. Mix glutinous rice flour, granulated sugar, and water in a heatproof bowl.\n\n2. Stir until all ingredients are evenly mixed and there are no lumps.\n\n3. Place the bowl containing the dough into a steamer or rice cooker.\n\n4. Steam the dough for about 20 minutes, or until the dough turns transparent and chewy.\nDuring the steaming process, stir the dough every 5 minutes to ensure even cooking.\n\n5. After cooking, transfer the dough to a surface dusted with cornstarch.\nUse a rolling pin to flatten the dough to a thickness of about 1 cm.\nLet the dough cool for a few minutes until it is warm enough to handle.\n\n6. Filling and Shaping the Daifuku:\n\n• Cut the mochi dough into small circles.\n• Place the filling in the center of each mochi piece.\n• Pull the edges of the mochi to the center until the filling is completely covered.\n• Shape it into a ball.\n\n7. Dust the finished daifuku mochi with a little cornstarch to prevent stickiness.\n\nWrap each mochi with plastic wrap if not served immediately.</string>
+
+    <string name="desc_mochi_bites_image">Image of Mochi Bites</string>
+    <string name="ingredients_mochi_bites">• 150 grams glutinous rice flour\n• 2 tablespoons granulated sugar\n• Liquid milk\n• Enough cooking oil\n• 200 ml boiled water\n• 1/4 teaspoon salt\n• Cocoa powder</string>
+
+    <string name="title_steps_mochi_bites">Steps - Mochi Bites</string>
+    <string name="steps_mochi_bites">1. Mix glutinous rice flour, sugar, and salt, then stir well. Pour in the liquid milk little by little while stirring to avoid lumps.\n\n2. Pour cooking oil into the batter, then mix well. Transfer the batter by straining it into a heatproof bowl.\n\n3. Steam the batter for 20 minutes until cooked and translucent. Once cooked, dust the dough with glutinous rice flour to prevent sticking. Cut it into pieces as desired.\n\n4. Shape the mochi dough into balls, then coat it with cocoa powder. Arrange the mochi on a plate. Set aside.\n\n5. Cook the cheese sauce ingredients. Stir well and cook the cheese sauce until it boils and thickens. Transfer to a serving bowl.\n\n6. Serve the mochi with the cheese sauce and Oreo crumbs.</string>
+
+    <string name="desc_mochi_dango_image">Image of Mochi Dango</string>
+    <string name="ingredients_mochi_dango">• 150 gr glutinous rice flour\n• 25 gr granulated sugar\n• 100 ml boiling water\n• Food coloring\n• Whipped cream\n• Cocoa powder</string>
+
+    <string name="title_steps_mochi_dango">Steps - Mochi Dango</string>
+    <string name="steps_mochi_dango">1. Put the glutinous rice flour into a bowl.\n\n2. Add granulated sugar and boiling water, stir until smooth.\n\n3. Add food coloring as desired, stir well again.\n\n4. Shape into small balls and boil until they float (indicating they are cooked).\n\n5. Once cooked, lift and drain them.\n\n6. Serve the mochi dango by adding whipped cream on top and sprinkling with cocoa powder.</string>
+
+    <string name="desc_creamy_mochi_image">Image of Creamy Mochi</string>
+    <string name="ingredients_creamy_mochi">• 6 fresh strawberries\n• 150 grams red bean paste\n• 3/4 cup glutinous rice flour (shiratamako)\n• 1 1/2 tbsp sugar\n• 2/3 cup water\n• Potato starch (for dusting)</string>
+
+
+    <string name="title_steps_creamy_mochi">Steps - Creamy Mochi</string>
+    <string name="steps_creamy_mochi">1. Rinse, dry, and remove the strawberry stems. Divide the red bean paste into six equal balls. Wrap the strawberries with the paste, leaving the tip of the fruit uncovered.\n\n2. In a microwave-safe glass bowl, mix the glutinous rice flour (shiratamako) and sugar with a whisk. Using a spatula, add the water in three parts and stir until the mixture thickens. Cover loosely with plastic wrap.\n\n3. Microwave for one minute. Stir the dough with a wet spatula. Then, microwave for one more minute. Stir evenly with a wet spatula. Finally, microwave for just 30 seconds. Check if the mixture is now clear.\n\n4. Sift potato starch onto a tray and place the mixture on top. Using a silicone spatula or dough scraper, fold it in half once so it\'s not too sticky, then divide it into six equal parts.\n\n5. Sprinkle a little potato starch on your hands. Flatten and shape each portion into a ball. Place the strawberry coated with red bean paste on top, with the tip facing down. Start covering the fruit from all sides and use your thumb to hold the mochi over the strawberry.\n\n6. Once all sides of the dough meet at the top, twist and seal. Shape it into a nice round form. Repeat the process. Serve at room temperature.</string>
+
+</resources>
